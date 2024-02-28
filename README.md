@@ -1,0 +1,2 @@
+- This is the PHM Repo for Informatics and Hospitalist Projects
+- This includes changes, releases, and organization of inpatient hospital medicine projects
